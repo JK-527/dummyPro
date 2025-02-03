@@ -1,1 +1,1 @@
-this is a basic text file to for working on git
+this is a basic text file for working on git
